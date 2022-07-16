@@ -156,7 +156,7 @@ h1,h2,h3{
 
 ul{
   padding: 0;
-  list-style: none;
+  /* list-style: none; */
 }
 
 a{
@@ -417,6 +417,23 @@ img{
   font-size: var(--smaller-font-size);
 }
 
+.experience__company{
+  margin-top: -1.5rem;
+  font-size: 0.84rem;
+}
+
+.ulle{
+  margin-top: -1rem;
+  padding-left: 1rem;
+}
+
+.time{
+  color: #707070;
+  /* font-size: var(--small-font-size); */
+  font-size: 13px;
+  margin-top: 0.3rem;
+}
+
 /*========== SKILLS AND LANGUAGES ==========*/
 .skills__content{
   grid-template-columns: repeat(2, 1fr);
@@ -451,6 +468,18 @@ img{
 .certificate__title{
   font-size: var(--h3-font-size);
   margin-bottom: var(--mb-1);
+}
+
+.list{
+  padding: 0.4rem 0;
+}
+
+.list2{
+  padding: 0.2rem 0;
+}
+
+.ul{
+  padding-left: 1rem;
 }
 
 /*========== REFERENCES ==========*/

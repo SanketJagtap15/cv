@@ -1,3 +1,3 @@
-# resume
-My resume website<br>
+# CV
+My Curriculum vitae website<br>
 :)

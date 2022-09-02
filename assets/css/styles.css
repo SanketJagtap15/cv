@@ -161,7 +161,13 @@ ul{
 
 a{
   text-decoration: none;
+  color:var( --text-color);
 }
+
+a:hover{
+  size: 2rem;
+}
+
 
 img{
   max-width: 100%;
@@ -425,6 +431,14 @@ img{
 .ulle{
   margin-top: -1rem;
   padding-left: 1rem;
+}
+
+.experience__title{
+  margin-top: -1.5rem;
+}
+
+.sf{
+  margin-top: 0;
 }
 
 .time{

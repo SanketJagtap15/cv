@@ -331,6 +331,10 @@ img{
   font-size: var(--small-font-size);
 }
 
+.home__information:hover{
+  color: aquamarine;
+}
+
 .home__icon{
   font-size: 1.2rem;
   margin-right: 0.25rem;
